@@ -19,7 +19,7 @@ Run `npm test`
 ## API Documentation
 See the below documentation made with postman for the API request and response:
 
-`https://documenter.getpostman.com/view/15232528/2sB2cUC3Qs`
+https://documenter.getpostman.com/view/15232528/2sB2cUC3Qs
 
 
 ## Tech Stack
