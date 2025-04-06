@@ -1,0 +1,10 @@
+{
+  "product1": {
+    "url": "https://example.com/product1",
+    "price": 90
+  },
+  "product2": {
+    "url": "https://example.com/product2",
+    "price": 150
+  }
+}
